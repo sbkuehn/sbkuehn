@@ -1,7 +1,7 @@
 ### Greetings! 👋
 
 <!--
-**sbkuehn/sbkuehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
+**sbkuehn/sbkuehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 My name is Shannon Kuehn (pronounced "Keen"). I am a not-so-typical technologist, as my roots are grounded in public speaking and writing. I was a Communication Studies major and English minor in college (University of Nebraska at Lincoln graduate - Go Big Red!). Prior to collegiate life, I participated in competitive high school speech tournaments. 
 
