@@ -7,6 +7,6 @@ You might be wondering how I even became technical. I gravitated toward technolo
 <br>
 <br>- Senior Product Manager; Identity and Network Access Advocacy - focus on identity and security (November 2021 - Present)
 <br>- Senior Cloud Advocate; Enterprise Platforms and Tools - focus on Azure VMware Solution (March 2020 - November 2021)
-<br>- Senior Cloud Solution Architect; National Accounts (January 2018 - March 2020)
+<br>- Senior Cloud Solution Architect; National Accounts - focus on growing Azure growth and consumption within the enterprise. (January 2018 - March 2020)
 <br><br>
 In my day-to-day, I create content (videos, blogs, live streams) and conduct community outreach for Microsoft's SCIM toolsets as a way of helping both developers and IT pros feel comfortable within Microsoft's cloud platform. 
