@@ -1,7 +1,7 @@
 ### Greetings! 👋
 <!--**sbkuehn/sbkuehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 <br>
-My name is Shannon Eldridge-Kuehn (pronounced Keen). I like to think of myself as an “accidental technologist” with roots in public speaking and writing. I studied Communication Studies with an English minor at the University of Nebraska–Lincoln (Go Big Red!) and spent much of my early life in front of audiences, sharpening my skills through competitive high school speech tournaments. Speaking to crowds has always come naturally, but what might surprise people is how I ended up in technology.
+My name is Shannon Eldridge-Kuehn (Kuehn is pronounced Keen). I like to think of myself as an “accidental technologist” with roots in public speaking and writing. I studied Communication Studies with an English minor at the University of Nebraska–Lincoln (Go Big Red!) and spent much of my early life in front of audiences, sharpening my skills through competitive high school speech tournaments. Speaking to crowds has always come naturally, but what might surprise people is how I ended up in technology.
 <br><br>
 My technical journey did not begin in a server room. It started behind a set of turntables. As a DJ, I needed to record demos for club promoters, and that curiosity about sound equipment hooking into computers grew into a talent for troubleshooting. That tinkering spirit opened doors into help desk roles, then Windows systems administration, VMware, Exchange, and eventually Office 365, Exchange Online, and Azure. Along the way, I worked with mentors and colleagues who helped me build depth in infrastructure and expand my expertise.
 <br><br>
